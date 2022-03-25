@@ -1,7 +1,7 @@
 Package: retratoeconomico
 Title: Retrato Econônomico
 Version: 0.0.0.9000
-Authors@R: person('Fernando', 'Bastos', email = 'fernando.bastos.neto@gmail.com', role = c('cre', 'aut'))
+Authors@R: person('NIE', 'scaec', email = 'niescaec@gmail.com', role = c('cre', 'aut'))
 Description: Dashboard em Shiny que congrega dados econômicos do Brasil com o mundo.
 License: MIT + file LICENSE
 Imports: 
@@ -35,8 +35,8 @@ Suggests:
 Config/testthat/edition: 3
 Language: en-US
 Remotes: 
-    fernandobastosneto/comerciobr,
-    fernandobastosneto/barao,
-    fernandobastosneto/comerciomundo,
-URL: https://github.com/fernandobastosneto/retratoeconomico
-BugReports: https://github.com/fernandobastosneto/retratoeconomico/issues
+    NIEscaec/comerciobr,
+    NIEscaec/barao,
+    NIEscaec/comerciomundo,
+URL: https://github.com/NIEscaec/retratoeconomico
+BugReports: https://github.com/NIEscaec/retratoeconomico/issues
